@@ -1,0 +1,147 @@
+body {
+  background: #024d8b;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial;
+  gap: 24px;
+}
+
+.tarjeta {
+  background: #090909;
+  height: 400px;
+  width: 300px;
+  border: 20px solid rgb(218, 228, 227);
+  border-radius: 10px;
+box-shadow:  0 0 20px #f00;
+}
+
+h2 {
+  color: hsl(54, 96%, 44%);
+}
+
+button {
+  background: #000;
+  color: #fff;
+  border: 2px solid rgb(18, 213, 231);
+  padding: 8px 20px;
+  margin-top: 15px;
+}
+
+
+.logo{
+
+width: 100px;
+height: 100px;
+margin: -50px auto 0;
+background-image: url(img/17x.png);
+background-size: cover;
+background-position: center;
+
+
+
+}
+
+.franja{
+height: 100px;
+    background-image: url(img/pa.jpg);
+}
+.info{
+
+    padding: 15px 20px 25px;
+}
+
+.tarjeta2 {
+ background: #090909;
+ height: 400px;
+  width: 300px;
+  border: 20px solid rgb(218, 228, 227);
+  border-radius: 10px;
+box-shadow:  0 0 20px #f00;
+
+}
+
+h3 {
+  color: #555;
+}
+
+button {
+  background: #000;
+  color: #fff;
+  border: 2px solid rgb(18, 213, 231);
+  padding: 8px 20px;
+  margin-top: 15px;
+}
+
+
+p{
+
+    color: yellow;
+}
+
+
+.logo2{
+
+width: 100px;
+height: 100px;
+margin: -50px auto 0;
+background-image: url(img/18.png);
+background-size: cover;
+background-position: center;
+
+
+
+}
+.tarjeta3 {
+ background: #090909;
+ height: 400px;
+  width: 300px;
+  border: 20px solid rgb(218, 228, 227);
+  border-radius: 10px;
+box-shadow:  0 0 20px #f00;
+}
+
+h3 {
+  color: #555;
+}
+
+button {
+  background: #000;
+  color: #fff;
+  border: 2px solid rgb(18, 213, 231);
+  padding: 8px 20px;
+  margin-top: 15px;
+}
+
+
+.logo3{
+
+width: 100px;
+height: 100px;
+margin: -50px auto 0;
+background-image: url(img/16.png);
+background-size: cover;
+background-position: center;
+}
+p{
+
+    color: yellow;
+}
+h4 {
+  color: rgb(243, 239, 4);
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+h1 {
+  color: rgb(243, 239, 4);
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
